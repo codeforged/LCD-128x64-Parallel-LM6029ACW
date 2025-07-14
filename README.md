@@ -56,5 +56,6 @@ LM6029ACW lcd(
 ---
 
 Author: K1ngUn1c0rn, https://github.com/codeforged
+
 ---
 Feel free to fork, modify, and use for your own STM32+LCD projects!
