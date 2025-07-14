@@ -5,13 +5,13 @@ Demo project for STM32H743VIT6 (DevEBox) with LM6029ACW 128x64 monochrome graphi
 ## Features
 - Fast parallel 8080 interface (13 data/control pins)
 - Adafruit GFX integration: draw shapes, text, custom fonts
-- Example: animation, FPS counter, moving text, and bitmap logo (Adafruit)
+- Example: simple animation, FPS counter and moving text
 - Supports both full buffer update and page-based update (paging)
 - Easily switch between update modes for benchmarking
 - Example code for drawing bitmaps (logo)
 
 ## Hardware
-- MCU: STM32H743VIT6 (DevEBox)
+- MCU: STM32H743VIT6 - DevEBox (tested), Arduino Mega (tested), Arduino Due (tested) and another MCU should be worked.
 - LCD: LM6029ACW (ST7565, 128x64, parallel 8080)
 - Backlight and VDD controlled via GPIO
 
