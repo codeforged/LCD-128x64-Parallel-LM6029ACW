@@ -47,7 +47,9 @@ LM6029ACW lcd(
 - PlatformIO, STM32 platform
 
 ## Screenshots
-![Demo Screenshot](screenshot.png)
+<img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/de84326c-9c7f-4104-8e51-6687ee27f7fe" />
+<img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/34778c91-f9f5-4708-8ed9-f64b640a8215" />
+
 
 ## Credits
 - Adafruit GFX for graphics engine
